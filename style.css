@@ -1,0 +1,31 @@
+form {
+  display: block;
+}
+
+.fname,
+.lname,
+.email {
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+  color:#8a2be2;
+}
+
+label {
+  margin: 10px 0;
+}
+
+#form1 {
+  display: block;
+}
+
+#primul {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#form2 {
+  display: none;  
+}
